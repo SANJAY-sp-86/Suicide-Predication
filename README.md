@@ -57,6 +57,8 @@ suicide-prediction-bert/
 └── requirements.txt # Dependencies
 
 ---
+## ⚙️ Dataset link and full project like 
+-G-Drive link: https://drive.google.com/file/d/1Wh1UTKWXtcQr-ad3CG-nmEipYfRAvYCE/view?usp=sharing  
 
 ## ⚙️ Installation & Setup
 
@@ -67,4 +69,11 @@ cd suicide-prediction-bert
 python -m venv venv
 source venv/bin/activate   # On Linux/Mac
 venv\Scripts\activate      # On Windows
+
+
+---
+
+Do you also want me to **generate a sample `requirements.txt` file** with exact library versions to match BERT, PyTorch, and Streamlit? Or keep it minimal?
+
+
 
